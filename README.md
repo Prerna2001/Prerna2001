@@ -38,11 +38,7 @@
 
 <br />
 <br />
----
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Prerna2001&theme=tokyonight)
 
-
-  <img align="l<a href="https://github.com/Prerna2001"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>eft" alt="Prerna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prerna2001&show_icons=true&hide_border=true" />
 
 
 
