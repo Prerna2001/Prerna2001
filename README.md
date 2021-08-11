@@ -28,13 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javaScript&logoColor=blue)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
+
 
 <br />
 <br />
