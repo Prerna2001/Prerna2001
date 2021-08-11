@@ -22,19 +22,7 @@
 
 ### Languages and Tools:
 
-![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javaScript&logoColor=blue)
-![CPP](https://img.shields.io/badge/cpp-dark?style=flat&logo=c%2B%2B)
-![Android](https://img.shields.io/badge/Android-grey?style=flat&logo=android&logoColor=green)
-![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-blue.svg?logo=Android%20Studio)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-![Rituraj's github stats](https://github-readme-stats.vercel.app/api?username=riturajgupta21&show_icons=true&theme=dracula)
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=riturajgupta21&theme=tokyonight)
 
 <br/>
 
